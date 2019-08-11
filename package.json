@@ -12,6 +12,7 @@
     "massive": "^5.11.2",
     "node": "^12.8.0",
     "nodemon": "^1.19.1",
+    "npm": "^6.10.3",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-router-dom": "^5.0.1",
@@ -38,6 +39,6 @@
       "last 1 safari version"
     ]
   },
-  "main": "Server/Server.js",
+  "main": "server/server.js",
   "proxy": "http://localhost:6789"
 }
